@@ -1,6 +1,6 @@
 import java.util.Date
 
-import event.{BaseEvent, EventOffsetAndHashValue}
+//import event.{BaseEvent, EventOffsetAndHashValue}
 import spray.json.DefaultJsonProtocol
 
 /**
