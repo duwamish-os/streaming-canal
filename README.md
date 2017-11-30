@@ -33,7 +33,7 @@ Technologies Used
 
 ```
 Akka HTTP
-Scala 2.11.5
+Scala 2.12.4
 Sbt 0.13.0
 ```
 
